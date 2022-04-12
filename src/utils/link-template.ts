@@ -1,0 +1,1 @@
+export const link_template = (id: string) => `https://www.bestchange.com/index.php?mt=twostep&from=${id}&to=${id}&sort=from&range=asc`
